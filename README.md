@@ -3,8 +3,9 @@
 **A fast, reliable, and feature-rich TypeScript API for interacting with LeetCode problems programmatically**
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.9+-blue.svg)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-4.x-black.svg)](https://expressjs.com/)
 [![License: ISC](https://img.shields.io/badge/license-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/leetcode-api/node.js.yml?branch=main)](https://github.com/yourusername/leetcode-api/actions)
 ---
 
 ## ✨ Features
