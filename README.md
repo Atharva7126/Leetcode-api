@@ -51,7 +51,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/leetcode-api.git
+git clone https://github.com/Atharva7126/Leetcode-api.git
 cd leetcode-api
 
 # Install dependencies
